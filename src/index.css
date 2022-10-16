@@ -78,3 +78,13 @@ button{
   border: 1px solid black;
   cursor: pointer;
 }
+.searchbar{
+  width: 44rem;
+  margin:auto;
+  padding: 10px;
+}
+.custCenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
